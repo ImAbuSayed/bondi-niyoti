@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bondi Niyoti
+
+This log tracks the cryptographic history and versioning for the song **Bondi Niyoti** (bondi-niyoti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:12:45.350390 | `v1` | `3c255d0b9f9b76d357eae34e0ecaf6f08dae646d16a56e418cb2932aa285a5ab` | `7c351946f43a8c78e7908cb134bb54b5c1b0ae6aab97aaca1fd251687b42efa5` | `2026-05-08_bondi-niyoti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
